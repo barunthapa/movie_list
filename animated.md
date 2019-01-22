@@ -2,3 +2,7 @@
 1. Mulan
 2. Madagascar
 3. Brave
+4. Frozen
+5. Cars 1,2,3
+6. Up
+7. Tangled
